@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="295d5a42-68da-44ea-82a4-fc6338259f0a" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="85cad203-77c3-4e93-8062-f90d35dc9422" />
+  <component name="ProjectId" id="1aGEaGdjqPhzFe1YSCN3xlRS5vm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="python.debugger.dataview.coloredbydefault" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yamin\OneDrive - Instituto Superior de Engenharia de Lisboa\ISEL\6º Semestre\Proj-Final\parking-master" />
+      <recent name="C:\Users\yamin\Desktop\parking-master\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.c_Main">
+    <configuration name="Parking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="parking-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Parking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Parking_sofia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="parking-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Parking_sofia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="parking-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="c_Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="parking-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c_Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="connectionDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="parking-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/connectionDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="parking-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.c_Main" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Parking" />
+        <item itemvalue="Python.Parking_sofia" />
+        <item itemvalue="Python.connectionDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="295d5a42-68da-44ea-82a4-fc6338259f0a" name="Default Changelist" comment="" />
+      <created>1586353591535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586353591535</updated>
+      <workItem from="1586353593926" duration="194000" />
+      <workItem from="1586353857025" duration="11339000" />
+      <workItem from="1586445518675" duration="2553000" />
+      <workItem from="1586610091575" duration="2529000" />
+      <workItem from="1586640072371" duration="1441000" />
+      <workItem from="1586716203023" duration="654000" />
+      <workItem from="1586766265091" duration="3312000" />
+      <workItem from="1586791519824" duration="1844000" />
+      <workItem from="1586869643379" duration="6210000" />
+      <workItem from="1589212031925" duration="605000" />
+      <workItem from="1589896088867" duration="357000" />
+      <workItem from="1589898779605" duration="20000" />
+      <workItem from="1590091387294" duration="137000" />
+      <workItem from="1590162857645" duration="402000" />
+      <workItem from="1591119031893" duration="8000" />
+      <workItem from="1593114760918" duration="702000" />
+      <workItem from="1593116335067" duration="2338000" />
+      <workItem from="1593204258641" duration="158000" />
+      <workItem from="1593252594193" duration="2939000" />
+      <workItem from="1593261053968" duration="2195000" />
+      <workItem from="1594498974060" duration="3277000" />
+      <workItem from="1594649746537" duration="1907000" />
+      <workItem from="1595091668014" duration="5015000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1595096133246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595096133246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Mask_RCNN" />
+    </ignored-roots>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="366" key="#SQL_Dialects" timestamp="1586871539980">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="524" y="366" key="#SQL_Dialects/0.0.1920.1050@0.0.1920.1050" timestamp="1586871539980" />
+    <state x="776" y="384" key="#SQL_Resolution_Scopes" timestamp="1586871476037">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="776" y="384" key="#SQL_Resolution_Scopes/0.0.1920.1050@0.0.1920.1050" timestamp="1586871476037" />
+    <state x="609" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586775463757">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="609" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586775463757" />
+    <state x="447" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595095903836">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="447" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1595095903836" />
+    <state x="785" y="295" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586871564311">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="785" y="295" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586871564311" />
+    <state x="121" y="7" width="1457" height="1018" key="CommitChangelistDialog2" timestamp="1595097090101">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="121" y="7" width="1457" height="1018" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1595097090101" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1595096117215">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595096117215" />
+    <state x="887" y="275" width="440" height="494" key="FileChooserDialogImpl" timestamp="1595097079351">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="887" y="275" width="440" height="494" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1595097079351" />
+    <state x="603" y="476" key="Github.ShareDialog" timestamp="1595094870732">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="603" y="476" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595094870732" />
+    <state x="357" y="277" key="Github.UntrackedFilesDialog" timestamp="1595092484209">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="357" y="277" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595092484209" />
+    <state width="1921" height="351" key="GridCell.Tab.0.bottom" timestamp="1594506362761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594506362761" />
+    <state width="1921" height="351" key="GridCell.Tab.0.center" timestamp="1594506362761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="351" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594506362761" />
+    <state width="1921" height="351" key="GridCell.Tab.0.left" timestamp="1594506362761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="351" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594506362761" />
+    <state width="1921" height="351" key="GridCell.Tab.0.right" timestamp="1594506362761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="351" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594506362761" />
+    <state width="1921" height="351" key="GridCell.Tab.1.bottom" timestamp="1594506362761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594506362761" />
+    <state width="1921" height="351" key="GridCell.Tab.1.center" timestamp="1594506362761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="351" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594506362761" />
+    <state width="1921" height="351" key="GridCell.Tab.1.left" timestamp="1594506362761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="351" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594506362761" />
+    <state width="1921" height="351" key="GridCell.Tab.1.right" timestamp="1594506362761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="351" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594506362761" />
+    <state x="6" y="133" width="1259" height="711" key="SettingsEditor" timestamp="1595094834784">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="6" y="133" width="1259" height="711" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1595094834784" />
+    <state width="200" height="441" key="SqlResolveConfigurable" timestamp="1586871475942">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="200" height="441" key="SqlResolveConfigurable/0.0.1920.1050@0.0.1920.1050" timestamp="1586871475942" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1595096777653">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1595096777653" />
+    <state x="597" y="474" width="434" height="279" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1586872015163">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="597" y="474" width="434" height="279" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1050@0.0.1920.1050" timestamp="1586872015163" />
+    <state x="1191" y="126" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1586871462392">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1191" y="126" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586871462392" />
+    <state x="151" y="233" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1586776132768">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="151" y="233" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1586776132768" />
+    <state x="467" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595094735599">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="467" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1595094735599" />
+    <state x="431" y="347" key="git4idea.rebase.GitRebaseDialog" timestamp="1595097069865">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="431" y="347" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595097069865" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/yamin/Desktop/parking-master/Parking.ipynb</url>
+          <line>140</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/yamin/Desktop/parking-master/Parking.ipynb</url>
+          <line>168</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/parking_master$Parking_sofia.coverage" NAME="Parking_sofia Coverage Results" MODIFIED="1590162872122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parking_master$Parking.coverage" NAME="Parking Coverage Results" MODIFIED="1590163129997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parking_master$c_Main.coverage" NAME="c_Main Coverage Results" MODIFIED="1594506198371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parking_master$connectionDB.coverage" NAME="connectionDB Coverage Results" MODIFIED="1586869787548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
